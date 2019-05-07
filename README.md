@@ -14,7 +14,6 @@ Pre-requisites
 
 - A recent version of Chrome or other modern web browser
 - The sample code
-- A text editor (This is optional. You can use the [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/) to draft your JSON-LD samples)
 - Basic understanding of HTML and JSON syntax
 
 Support
