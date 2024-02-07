@@ -1,6 +1,8 @@
 Add structured data to your web pages
 ============
 
+**This repository is deprecated**
+
 This codelab walks you through adding structured data to a simple HTML site, including where to place your structured data on a site and how to validate structured data. 
 
 Introduction
